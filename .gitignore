@@ -5,3 +5,7 @@ build/
 !**/src/test/**/build/
 
 .idea/
+/.kotlin/
+**/out/
+!**/src/**/out/
+**/*.log
